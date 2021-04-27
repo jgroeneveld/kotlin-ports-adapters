@@ -2,6 +2,8 @@
 
 A super simple example to illustrate how to use the adapter pattern as application architecture in kotlin + spring boot.
 
+This is not a complete example. It is as simple as possible to explain the concept on a shallow level as starting point.
+
 ## packages
 
 - **adapters** defines all points to the outer world (datasources, apis, commands...)
